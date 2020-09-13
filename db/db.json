@@ -1,0 +1,73 @@
+{
+  "login": [
+    {
+      "name": "ankitupadhyay",
+      "password": "123456"
+    }
+  ],
+  "resturent": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "address": "Sigra , Varanasi",
+      "rating": "4.5",
+      "email": "king007@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "IP Sigra Mall",
+      "rating": "4.5",
+      "email": "McDonald990@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Capsicum",
+      "address": "Saket Nagar Colony , Lanka",
+      "rating": "4.8",
+      "email": "Capsicumtaste@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Maharaja Food Corner",
+      "address": "Lanka",
+      "rating": "4.7",
+      "email": "Maharaja@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Kashi Chat Bhandaar",
+      "address": "Godowlia Road, Girja Ghar Chauraha",
+      "rating": "4.9",
+      "email": "kashinagribaba@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Satkar Family Restaurant & Dhaba",
+      "address": "Toll Tax, 114 Vishwa Sundari Bypass Road Near BHU",
+      "rating": "4.4",
+      "email": "Satkardhaba@gmail.com"
+    },
+    {
+      "name": "Roma's Cafe Diner",
+      "email": "roma1cafe@gmail.com",
+      "address": "Swastik Plaza, 24, 2nd, Near Ravidas Gate",
+      "rating": "4.3",
+      "id": 7
+    },
+    {
+      "name": "Pizzeria Vaatika Cafe",
+      "email": "Vatik@gmail.com",
+      "address": "Assi Ghat, Varanasi",
+      "rating": "4.3",
+      "id": 8
+    },
+    {
+      "name": "Canton Royale at Hotel Surya",
+      "email": "Suryathe@gmail.com",
+      "address": "The Mall Road, Cantt Varanasi",
+      "rating": "4.6",
+      "id": 9
+    }
+  ]
+}
