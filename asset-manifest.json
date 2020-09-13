@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Haramkhoreresturent/static/css/main.55914105.chunk.css",
+    "main.js": "/Haramkhoreresturent/static/js/main.6519f703.chunk.js",
+    "main.js.map": "/Haramkhoreresturent/static/js/main.6519f703.chunk.js.map",
+    "runtime-main.js": "/Haramkhoreresturent/static/js/runtime-main.22cf3c75.js",
+    "runtime-main.js.map": "/Haramkhoreresturent/static/js/runtime-main.22cf3c75.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Haramkhoreresturent/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.61db185d.chunk.js": "/Haramkhoreresturent/static/js/2.61db185d.chunk.js",
+    "static/js/2.61db185d.chunk.js.map": "/Haramkhoreresturent/static/js/2.61db185d.chunk.js.map",
+    "index.html": "/Haramkhoreresturent/index.html",
+    "precache-manifest.cb6395cce16142c7963b7910b96959e4.js": "/Haramkhoreresturent/precache-manifest.cb6395cce16142c7963b7910b96959e4.js",
+    "service-worker.js": "/Haramkhoreresturent/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Haramkhoreresturent/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.55914105.chunk.css.map": "/Haramkhoreresturent/static/css/main.55914105.chunk.css.map",
+    "static/js/2.61db185d.chunk.js.LICENSE.txt": "/Haramkhoreresturent/static/js/2.61db185d.chunk.js.LICENSE.txt",
+    "static/media/img3.jpg": "/Haramkhoreresturent/static/media/img3.cb40b70f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22cf3c75.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.61db185d.chunk.js",
+    "static/css/main.55914105.chunk.css",
+    "static/js/main.6519f703.chunk.js"
+  ]
+}
